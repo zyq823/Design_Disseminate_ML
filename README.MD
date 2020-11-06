@@ -4,4 +4,4 @@ Team members: Gabriel Stella, Yiqing Zhao, Aaryan Kothapalli, Keishla Ortiz-Lope
 
 ---
 
-This project involves using ML techniques to perform COVID-19 diagnoses from chest X-rays.
+This project involves using ML techniques to perform COVID-19 diagnosis from chest X-rays.
